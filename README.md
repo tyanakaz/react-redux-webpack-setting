@@ -1,2 +1,2 @@
 
-# react-redux-compose
+# react-redux-webpack-setting
